@@ -1,20 +1,44 @@
-.lsize{
+.lsize {
     font-size: xxx-large;
     text-align: center;
-    color: orange;
+
 }
-body{
-    background-color: black;
+
+body {
+    background-color: blueviolet;
 }
+
 .left {
     text-align: left;
 }
-.wfont{
+
+.wfont {
     color: white;
 }
-.ofont{
-    color: orange;
-}
-.msize{
+
+.msize {
     font-size: medium;
+}
+
+.flex-container {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+.vertical {
+    float: left;
+    flex-direction: column;
+}
+
+.horizontal {
+    flex-direction: row;
+}
+
+.ref {
+    width: 450px;
+    height: 300px;
+    border-radius: 50px;
+    ;
 }
