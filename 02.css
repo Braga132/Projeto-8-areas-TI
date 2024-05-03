@@ -1,0 +1,47 @@
+.flex-container {
+    display: flex;
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+}
+
+.vertical {
+    float: left;
+    flex-direction: column;
+}
+
+.horizontal {
+    flex-direction: row;
+}
+
+.ref {
+    width: 450px;
+    height: 300px;
+    border-radius: 50px;
+    ;
+}
+
+.lsize {
+    font-size: xxx-large;
+    text-align: center;
+
+}
+
+body {
+    background-color: cadetblue;
+}
+.java {
+    width: 1880px;
+    height: 700px;
+    border-radius: 50px;
+    ;
+}
+.left {
+    text-align: left;
+}
+.xsize {
+    font-size: x-large;
+}
+.wfont{
+    color: white;
+}
