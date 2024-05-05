@@ -30,18 +30,22 @@
 body {
     background-color: cadetblue;
 }
+
 .java {
     width: 1250px;
     height: 400px;
     border-radius: 50px;
     ;
 }
+
 .left {
     text-align: left;
 }
+
 .xsize {
     font-size: x-large;
 }
-.wfont{
+
+.wfont {
     color: white;
 }
